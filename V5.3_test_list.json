@@ -1,0 +1,272 @@
+{
+  "mediaFiles": [
+    {
+      "lastUpdate": "2025-11-17 16:30:48",
+      "mimeType": "image/png",
+      "name": "percorso esterno_blocco 1.png",
+      "size": 1128930,
+      "type": "IMG",
+      "url": "https://app.palazzoducale.genova.it/dam/mie/media/G0R641b/original.png",
+      "altText": "",
+      "uuid": "5dbe55c2617434addc08e170ed5ee4a0596c968a"
+    },
+    {
+      "lastUpdate": "2025-11-17 16:30:48",
+      "mimeType": "image/png",
+      "name": "percorso esterno_blocco 2.png",
+      "size": 110854,
+      "type": "IMG",
+      "url": "https://app.palazzoducale.genova.it/dam/mie/media/vxReMRQ/original.png",
+      "altText": "",
+      "uuid": "18d3b1f6d0656ec881c912cfbdef6b538eee68e8"
+    },
+    {
+      "lastUpdate": "2025-11-17 16:30:24",
+      "mimeType": "image/png",
+      "name": "percorso interno_piano porticato.png",
+      "size": 835167,
+      "type": "IMG",
+      "url": "https://app.palazzoducale.genova.it/dam/mie/media/gQ1Bg2d/original.png",
+      "altText": "",
+      "uuid": "7b8c08f212b8d28ee12e85382f4fc5ee919673f1"
+    },
+    {
+      "lastUpdate": "2025-11-17 16:30:24",
+      "mimeType": "image/png",
+      "name": "percorso interno_piano nobile.png",
+      "size": 879575,
+      "type": "IMG",
+      "url": "https://app.palazzoducale.genova.it/dam/mie/media/p42dERg/original.png",
+      "altText": "",
+      "uuid": "967524e4a58549b02fc0d75ab45de1ef7f95b0e0"
+    },
+    {
+      "lastUpdate": "2025-11-17 16:30:24",
+      "mimeType": "image/png",
+      "name": "percorso interno_piano terrazzi.png",
+      "size": 1138947,
+      "type": "IMG",
+      "url": "https://app.palazzoducale.genova.it/dam/mie/media/AW1q0ND/original.png",
+      "altText": "",
+      "uuid": "ce2d7f8c4dc1dc68dda06cdd042ef93da3e67e49"
+    }
+  ],
+  "pathCategories": [
+    {
+      "uuid": "1f0c0763-96d6-6746-b4cc-f6804821695a",
+      "title": "Percorso Esterno",
+      "subtitle": null,
+      "description": null,
+      "color": "",
+      "type": "mainPage",
+      "tag": "preview",
+      "order": 0,
+      "mediaUuid": null,
+      "lastUpdate": "2025-11-13T10:51:00",
+      "parentCategories": null
+    },
+    {
+      "uuid": "1f0c0764-a6ff-6f86-aaee-f6804821695a",
+      "title": null,
+      "subtitle": null,
+      "description": null,
+      "color": "",
+      "type": "mainPage",
+      "tag": "secondary-overflow",
+      "order": 1,
+      "mediaUuid": null,
+      "lastUpdate": "2025-12-01T11:41:09",
+      "parentCategories": null
+    },
+    {
+      "uuid": "1f0c0765-9557-68aa-9fa4-f6804821695a",
+      "title": "Percorso Interno",
+      "subtitle": null,
+      "description": null,
+      "color": "",
+      "type": "mainPage",
+      "tag": "preview",
+      "order": 2,
+      "mediaUuid": null,
+      "lastUpdate": "2025-11-18T17:17:44",
+      "parentCategories": null
+    },
+    {
+      "uuid": "1f0c0767-1c66-669c-bbce-f6804821695a",
+      "title": "Percorso Bambini",
+      "subtitle": "...E non dimenticarti di giocare!",
+      "description": "Ogni gioco ti guida alla scoperta dei contenuti in modo divertente e interattivo!",
+      "color": "",
+      "type": "mainPage",
+      "tag": "square-expanded",
+      "order": 3,
+      "mediaUuid": null,
+      "lastUpdate": "2025-12-19T17:33:05",
+      "parentCategories": null
+    },
+    {
+      "uuid": "1f0c0768-449d-6420-8bad-f6804821695a",
+      "title": null,
+      "subtitle": null,
+      "description": null,
+      "color": "#F2F0ED",
+      "type": "mainPage",
+      "tag": "button",
+      "order": 4,
+      "mediaUuid": null,
+      "lastUpdate": "2025-11-13T11:13:00",
+      "parentCategories": null
+    }
+  ],
+  "paths": [
+    {
+      "uuid": "1f0c071d-6a19-66cc-9655-f6804821695a",
+      "title": "Intro",
+      "subtitle": null,
+      "categories": [],
+      "groups": [],
+      "color": null,
+      "description": null,
+      "lastUpdate": "2025-12-19T17:31:32",
+      "mediaUuid": null,
+      "order": 0,
+      "tag": "path-intro",
+      "totalSize": 1895215,
+      "templateDefinitions": []
+    },
+    {
+      "uuid": "1f0c0721-d6b4-69f4-a385-f6804821695a",
+      "title": "Crediti",
+      "subtitle": null,
+      "categories": [],
+      "groups": [],
+      "color": null,
+      "description": null,
+      "lastUpdate": "2025-11-18T17:41:57",
+      "mediaUuid": null,
+      "order": 0,
+      "tag": "path-credits",
+      "totalSize": 273322,
+      "templateDefinitions": []
+    },
+    {
+      "uuid": "1f0c0725-5d67-6bec-accf-f6804821695a",
+      "title": "Le tracce del passato",
+      "subtitle": "NEI DINTORNI DEL PALAZZO",
+      "categories": [
+        "1f0c0763-96d6-6746-b4cc-f6804821695a"
+      ],
+      "groups": [],
+      "color": "#EC1C24",
+      "description": "Un tuffo nel passato tra dettagli architettonici e realtà aumentata.",
+      "lastUpdate": "2025-12-19T17:45:26",
+      "mediaUuid": "5dbe55c2617434addc08e170ed5ee4a0596c968a",
+      "order": 0,
+      "tag": "path-main-map",
+      "totalSize": 13863457,
+      "templateDefinitions": []
+    },
+    {
+      "uuid": "1f0c0753-dfc7-6bfe-8505-f6804821695a",
+      "title": "Esplora la facciata",
+      "subtitle": null,
+      "categories": [
+        "1f0c0764-a6ff-6f86-aaee-f6804821695a"
+      ],
+      "groups": [],
+      "color": "#000000",
+      "description": "Scopri l'identità dei nemici della Repubblica, immortalati per sempre nella facciata del Palazzo.",
+      "lastUpdate": "2025-12-15T17:37:30",
+      "mediaUuid": "18d3b1f6d0656ec881c912cfbdef6b538eee68e8",
+      "order": 0,
+      "tag": "path-main-map",
+      "totalSize": 8242651,
+      "templateDefinitions": []
+    },
+    {
+      "uuid": "1f0c0757-20bf-691a-89f5-f6804821695a",
+      "title": "Tra architettura e spazi storici",
+      "subtitle": "PIANO PORTICATO",
+      "categories": [
+        "1f0c0765-9557-68aa-9fa4-f6804821695a"
+      ],
+      "groups": [],
+      "color": "#EC1C24",
+      "description": "Scopri, tra lapidi e sculture, la storia e le funzioni del Palazzo.",
+      "lastUpdate": "2025-12-15T16:47:19",
+      "mediaUuid": "7b8c08f212b8d28ee12e85382f4fc5ee919673f1",
+      "order": 0,
+      "tag": "path-main-map",
+      "totalSize": 9398774,
+      "templateDefinitions": []
+    },
+    {
+      "uuid": "1f0c4998-4216-6ec8-9b61-f6804821695a",
+      "title": "Tra gli affreschi ",
+      "subtitle": "Piano nobile",
+      "categories": [
+        "1f0c0765-9557-68aa-9fa4-f6804821695a"
+      ],
+      "groups": [],
+      "color": "#EC1C24",
+      "description": "Immergiti nella meraviglia dei saloni affrescati e la Cappella Dogale.",
+      "lastUpdate": "2026-01-19T15:23:32",
+      "mediaUuid": "967524e4a58549b02fc0d75ab45de1ef7f95b0e0",
+      "order": 1,
+      "tag": "path-main-map",
+      "totalSize": 129675551,
+      "templateDefinitions": []
+    },
+    {
+      "uuid": "1f0c499c-0599-69c4-b1dd-f6804821695a",
+      "title": "Tra le carceri",
+      "subtitle": "Piano terrazzi",
+      "categories": [
+        "1f0c0765-9557-68aa-9fa4-f6804821695a"
+      ],
+      "groups": [],
+      "color": "#EC1C24",
+      "description": "Visita le carceri in modo immersivo grazie al Virtual Tour.",
+      "lastUpdate": "2025-12-18T14:37:59",
+      "mediaUuid": "ce2d7f8c4dc1dc68dda06cdd042ef93da3e67e49",
+      "order": 2,
+      "tag": "path-main-map",
+      "totalSize": 30835789,
+      "templateDefinitions": []
+    },
+    {
+      "uuid": "1f0c0759-3628-6d68-a61e-f6804821695a",
+      "title": "Percorso Kids",
+      "subtitle": null,
+      "categories": [
+        "1f0c0767-1c66-669c-bbce-f6804821695a"
+      ],
+      "groups": [],
+      "color": "#EC1C24",
+      "description": null,
+      "lastUpdate": "2026-01-14T16:39:11",
+      "mediaUuid": null,
+      "order": 0,
+      "tag": "path-main-list",
+      "totalSize": 20866791,
+      "templateDefinitions": []
+    },
+    {
+      "uuid": "1f0c075c-abbe-65c0-9f17-f6804821695a",
+      "title": "Scopri tutte le mostre e gli eventi in corso",
+      "subtitle": null,
+      "categories": [
+        "1f0c0768-449d-6420-8bad-f6804821695a"
+      ],
+      "groups": [],
+      "color": "#EC1C24",
+      "description": "Vuoi scoprire di più su mostre, incontri ed eventi?",
+      "lastUpdate": "2026-01-22T17:38:58",
+      "mediaUuid": null,
+      "order": 0,
+      "tag": "path-main-list",
+      "totalSize": 0,
+      "templateDefinitions": []
+    }
+  ]
+}
