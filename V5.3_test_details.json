@@ -8970,15 +8970,15 @@
       },
       {
         "uuid": "1f0c3cbe-479c-6c62-b88f-f6804821695a",
-        "title": "Carceri",
+        "title": "Memory",
         "subtitle": null,
         "description": null,
         "items": [
           "895eaff4-5c6c-30fb-9a94-6fd1620f7e23"
         ],
-        "tag": "game-dragdrop-sheet",
+        "tag": "game-memory-sheet",
         "lastUpdate": "2025-12-18T14:37:59",
-        "mediaUuid": "a9d42964fe17430fe9615fc02a80154e1ce65814",
+        "mediaUuid": null,
         "extraData": null
       },
       {
