@@ -8990,7 +8990,7 @@
           "9add3a15-5dd8-226c-39eb-6a488c328faa",
           "857aa262-8e62-40ee-61e7-d786e9c3d056"
         ],
-        "tag": "game-dragdrop-entry-sheet",
+        "tag": "game-memory-entry-sheet",
         "lastUpdate": "2025-12-18T14:37:59",
         "mediaUuid": null,
         "extraData": null
@@ -9003,7 +9003,7 @@
         "items": [
           "9a9f3e65-9331-64c9-395b-188de76ee81c"
         ],
-        "tag": "plus-game-dragdrop-sheet",
+        "tag": "plus-game-memory-sheet",
         "lastUpdate": "2025-12-18T14:37:59",
         "mediaUuid": null,
         "extraData": null
@@ -9016,7 +9016,7 @@
         "items": [
           "512cbf4e-c44f-03b3-2a26-2d93cbf39804"
         ],
-        "tag": "plus-collection-game-dragdrop-sheet",
+        "tag": "plus-collection-game-memory-sheet",
         "lastUpdate": "2025-12-18T14:37:59",
         "mediaUuid": null,
         "extraData": null
